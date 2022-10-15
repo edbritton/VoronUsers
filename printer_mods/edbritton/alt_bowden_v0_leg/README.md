@@ -13,4 +13,4 @@ This replaces the rear-right leg of the V0, removing the protruding bowen mount 
 Considerations
 --------------
 
-I chose to trim my bowden tubing at an angle so filament more easily travels through the openning.
+I chose to trim my bowden tubing at an angle so filament more easily travels through the opening.
